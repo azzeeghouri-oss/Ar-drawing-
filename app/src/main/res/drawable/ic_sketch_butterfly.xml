@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <!-- Butterfly Outline Sketch -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,80 C 128,70 128,190 128,190 M 128,80 C 124,65 110,50 95,55 M 128,80 C 132,65 146,50 161,55" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,95 C 105,75 40,70 30,120 C 22,160 85,175 128,140" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,95 C 151,75 216,70 226,120 C 234,160 171,175 128,140" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,140 C 100,150 65,185 85,215 C 105,240 125,200 128,175" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,140 C 156,150 191,185 171,215 C 151,240 131,200 128,175" />
+    <!-- Wing Inner details -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 55,115 C 80,105 110,115 126,125 M 65,135 C 90,130 115,138 126,138 M 201,115 C 176,105 146,115 130,125 M 191,135 C 166,130 141,138 130,138" />
+</vector>

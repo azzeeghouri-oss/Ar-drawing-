@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <!-- Anime Portrait line art -->
+    <!-- Chin / face outline -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 68,118 C 70,155 86,186 128,212 C 170,186 186,155 188,118" />
+    <!-- Hair bangs -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 52,110 C 50,55 90,38 128,38 C 166,38 206,55 204,110 M 52,110 L 68,102 L 66,128 L 84,112 L 86,140 L 108,118 L 128,150 L 148,118 L 170,140 L 172,112 L 190,128 L 188,102 L 204,110" />
+    <!-- Eyes -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 84,142 C 92,136 104,136 112,142 M 144,142 C 152,136 164,136 172,142" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 90,148 C 94,158 102,158 106,148 M 150,148 C 154,158 162,158 166,148" />
+    <!-- Nose & Mouth -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 128,162 L 126,168 M 120,182 C 125,185 131,185 136,182" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "AR Draw Trace",
+  "description": "Offline AR sketch and trace drawing app with photo import, lock mode, torch control, and session recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <!-- Rose Flower Sketch -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 128,80 C 132,70 142,65 150,75 C 158,85 140,100 128,100 C 114,100 102,86 112,74 C 122,62 144,56 160,68 C 176,80 168,108 148,118 C 128,128 98,122 88,102 C 78,82 92,54 122,46 C 152,38 184,56 186,88 C 188,120 162,142 136,146 C 110,150 78,136 70,108" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 106,146 C 90,165 96,180 120,180 C 144,180 156,160 162,142" />
+    <!-- Stem and leaves -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 128,180 C 126,200 132,225 125,245" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 127,200 C 142,192 165,190 175,200 C 165,215 145,215 127,208" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 126,220 C 110,212 85,212 78,222 C 90,234 110,230 125,226" />
+</vector>
